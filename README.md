@@ -1,2 +1,2 @@
-# practicum-en
+# Practicum-en
 Training projects translated into English
